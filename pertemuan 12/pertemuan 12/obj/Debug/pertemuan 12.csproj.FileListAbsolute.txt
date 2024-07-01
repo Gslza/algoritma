@@ -1,0 +1,7 @@
+D:\8030230056\pertemuan 12\pertemuan 12\bin\Debug\pertemuan 12.exe.config
+D:\8030230056\pertemuan 12\pertemuan 12\bin\Debug\pertemuan 12.exe
+D:\8030230056\pertemuan 12\pertemuan 12\bin\Debug\pertemuan 12.pdb
+D:\8030230056\pertemuan 12\pertemuan 12\obj\Debug\pertemuan 12.csproj.AssemblyReference.cache
+D:\8030230056\pertemuan 12\pertemuan 12\obj\Debug\pertemuan 12.csproj.CoreCompileInputs.cache
+D:\8030230056\pertemuan 12\pertemuan 12\obj\Debug\pertemuan 12.exe
+D:\8030230056\pertemuan 12\pertemuan 12\obj\Debug\pertemuan 12.pdb
