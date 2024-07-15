@@ -1,0 +1,7 @@
+D:\8030230056\Binary_Search1\Binary_Search1\bin\Debug\Binary_Search1.exe.config
+D:\8030230056\Binary_Search1\Binary_Search1\bin\Debug\Binary_Search1.exe
+D:\8030230056\Binary_Search1\Binary_Search1\bin\Debug\Binary_Search1.pdb
+D:\8030230056\Binary_Search1\Binary_Search1\obj\Debug\Binary_Search1.csproj.AssemblyReference.cache
+D:\8030230056\Binary_Search1\Binary_Search1\obj\Debug\Binary_Search1.csproj.CoreCompileInputs.cache
+D:\8030230056\Binary_Search1\Binary_Search1\obj\Debug\Binary_Search1.exe
+D:\8030230056\Binary_Search1\Binary_Search1\obj\Debug\Binary_Search1.pdb
